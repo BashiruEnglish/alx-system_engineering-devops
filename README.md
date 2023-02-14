@@ -1,1 +1,1 @@
-2. The path to success is to take massive, determined action 
+7. Global variable
